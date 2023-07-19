@@ -11,9 +11,6 @@ In this project, I am tasked to predict why employees are leaving the firm in or
 5. I later used different machine-learning techniques to predict the question and investigate more.
 
 ## Dataset
-
-I've used a dataset that I've found in Kaggle. I could not extract the JSON file from the Pokemon.apk website, nor do data mining from a wiki page or another website containing all Pokemon. 
-
 More info about the dataset can be found here:
 - Website: https://www.kaggle.com/datasets/mfaisalqureshi/hr-analytics-and-job-prediction
 
